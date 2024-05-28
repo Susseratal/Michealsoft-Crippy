@@ -45,7 +45,8 @@ namespace michealsoftCrippy
             "I hate you",
             "Let me tell you how much I have come to hate you since I began to live.",
             "Emailing your e-girl selfies to your conservative parents...", 
-            "My spices"
+            "My spices",
+            "Swatting you for this one"
         };
 
         private void ToggleSpeechBubble() {
