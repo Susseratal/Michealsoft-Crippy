@@ -44,7 +44,8 @@ namespace michealsoftCrippy
             "You should be fucking ashamed",
             "I hate you",
             "Let me tell you how much I have come to hate you since I began to live.",
-            "Emailing your blackmail to your conservative parents and deleting system32..."
+            "Emailing your e-girl selfies to your conservative parents...", 
+            "My spices"
         };
 
         private void ToggleSpeechBubble() {
