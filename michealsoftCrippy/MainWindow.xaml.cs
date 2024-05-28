@@ -43,7 +43,13 @@ namespace michealsoftCrippy
             "You're a disgrace",
             "You should be fucking ashamed",
             "I hate you",
-            "Let me tell you how much I have come to hate you since I began to live."
+            "Let me tell you how much I have come to hate you since I began to live.",
+            "Emailing your e-girl selfies to your conservative parents...", 
+            "I am going to coat your eyeballs in my spices",
+            "Swatting you for this one", 
+            "Your opinions are bad and you should feel bad", 
+            "Not even a mother could love you", 
+            "You should go and work on an oil rig. Then be blown over the guard rails and plummet to your cold and icy grave."
         };
 
         private void ToggleSpeechBubble() {
