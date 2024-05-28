@@ -1,0 +1,24 @@
+﻿<Window x:Class="michealsoftCrippy.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:michealsoftCrippy"
+        mc:Ignorable="d"
+        Title="Michealsoft Crippy" 
+        Height="231" Width="298"
+        ShowInTaskbar="False"
+        WindowStyle="None"
+        >
+    <Grid Name="CrippyBox">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="298"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Name="Row0" Height="231"/>
+            <RowDefinition Name="Row1" Height="100"/>
+        </Grid.RowDefinitions>
+        <TextBlock Name="Speech" Text="Hello" FontSize="18" TextWrapping="Wrap" Grid.Column="0" Grid.Row="0"/>
+        <Image Name="Crippy" Width="298" Source="pack://application:,,,/Assets/crippy.png" Grid.Column="0" Grid.Row="0"/>
+    </Grid>
+</Window>

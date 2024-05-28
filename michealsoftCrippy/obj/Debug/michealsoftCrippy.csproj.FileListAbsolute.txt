@@ -1,0 +1,17 @@
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.csproj.AssemblyReference.cache
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\MainWindow.g.cs
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\App.g.cs
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\Popup.g.cs
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy_MarkupCompile.cache
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy_MarkupCompile.lref
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\bin\Debug\michealsoftCrippy.exe.config
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\bin\Debug\michealsoftCrippy.exe
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\bin\Debug\michealsoftCrippy.pdb
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\MainWindow.baml
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\Popup.baml
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.g.resources
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.Properties.Resources.resources
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.csproj.GenerateResource.cache
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.csproj.CoreCompileInputs.cache
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.exe
+C:\Users\Iain\Documents\michealsoftCrippy\michealsoftCrippy\obj\Debug\michealsoftCrippy.pdb
