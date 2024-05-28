@@ -45,7 +45,7 @@ namespace michealsoftCrippy
             "I hate you",
             "Let me tell you how much I have come to hate you since I began to live.",
             "Emailing your e-girl selfies to your conservative parents...", 
-            "My spices",
+            "I am going to coat your eyeballs in my spices",
             "Swatting you for this one", 
             "Your opinions are bad and you should feel bad", 
             "Not even a mother could love you", 
